@@ -4,8 +4,10 @@ Bu projede aşağıdaki senaryoları nasıl otomatize edildiğini öğrendim.
 Aşağıdaki her bir senaryoyu otomatize edildi.
 
 Bu projede otomatize ederken uğraştırıcı kısımlar;
-        1.  "Add to Cart" senaryosunun 2. adımındaki navigation bar daki "Dresses" tıklatmada ve ardından "Summer Dresses"ı Hover ederken zorlandım.
-        2.  "Add to Cart" senaryosunun 4.adımındaki “Printed Chiffon Dress” ürününü hover edip "Add to Cart" yapmakta zorlandım.
+
+   1.  "Add to Cart" senaryosunun 2. adımındaki navigation bar daki "Dresses" tıklatmada ve ardından "Summer Dresses"ı Hover ederken zorlandım.
+   
+   2.  "Add to Cart" senaryosunun 4.adımındaki “Printed Chiffon Dress” ürününü hover edip "Add to Cart" yapmakta zorlandım.
 
 **Scenarios**
 
